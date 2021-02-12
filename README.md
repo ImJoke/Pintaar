@@ -8,7 +8,7 @@ Cara menggunakannya di Kali linux
   4. python3 belajar.py
 
 Cara menggunakannya di Termux
-  Sementara tidak tersedia, jika Anda ingin mencoba, Anda bisa mencobanya dengan
+Sementara tidak tersedia, jika Anda ingin mencoba, Anda bisa mencobanya dengan
   
   1. pkg install git -y; pkg install python
   2. git clone https://github.com/ImJoke/Pintaar.git
