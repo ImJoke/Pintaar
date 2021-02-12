@@ -8,10 +8,14 @@ Cara menggunakannya di Kali linux
   4. python3 belajar.py
 
 Cara menggunakannya di Termux
+  Sementara tidak tersedia, jika Anda ingin mencoba, Anda bisa mencobanya dengan
+  
   1. pkg install git -y; pkg install python
   2. git clone https://github.com/ImJoke/Pintaar.git
   3. cd Pintaar
   4. python3 belajar.py
+  
+  Jika Anda ingin sekali dengan videonya, Anda dapat melihat kodenya langsung
   
 Cara menggunakannya di Windows
   1. Pertama install pythonnya
