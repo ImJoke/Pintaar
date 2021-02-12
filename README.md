@@ -7,7 +7,7 @@ Cara menggunakannya di Kali linux
   3. cd Pintaar
   4. python3 belajar.py
 
-Cara menggunakannya di Termux.
+Cara menggunakannya di Termux. (Tested)
 
 Sementara tidak tersedia, jika Anda ingin mencoba, Anda bisa mencobanya dengan
   
@@ -18,7 +18,7 @@ Sementara tidak tersedia, jika Anda ingin mencoba, Anda bisa mencobanya dengan
   
   Jika Anda ingin sekali dengan videonya, Anda dapat melihat kodenya langsung
   
-Cara menggunakannya di Windows
+Cara menggunakannya di Windows (Tested)
   1. Pertama install pythonnya
   2. Setting environment variablenya
   3. Ketik cmd
