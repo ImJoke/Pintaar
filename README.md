@@ -7,7 +7,8 @@ Cara menggunakannya di Kali linux
   3. cd Pintaar
   4. python3 belajar.py
 
-Cara menggunakannya di Termux
+Cara menggunakannya di Termux.
+
 Sementara tidak tersedia, jika Anda ingin mencoba, Anda bisa mencobanya dengan
   
   1. pkg install git -y; pkg install python
